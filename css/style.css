@@ -8,3 +8,33 @@
     margin: 0 auto;
     text-align: center;
 }
+.section-colum{
+    margin: 5%;
+}
+.fleaft{
+    float: left;
+}
+.fright{
+    float: right;
+}
+.box{
+    background-color: black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+                0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 2%;
+    width: 300px;
+    width: calc(100% / 3 -2%);
+}
+.id-img{
+    width: 100px;
+}
+.box-id{
+    color: white;
+    line-height: 25px;
+    text-align: left;
+    margin: 4% 0 0% 40%;
+}
+.id{
+    font-size: 20px;
+    font-style: bold;
+}
