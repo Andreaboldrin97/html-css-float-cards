@@ -47,3 +47,8 @@ h1{
     text-decoration: none;
     color: aqua;
 }
+.clearfix{
+    columns: "";
+    display: table;
+    clear: both;
+}
